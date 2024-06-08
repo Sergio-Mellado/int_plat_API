@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JqD2MDaByVk=",
+  "dgSpecHash": "JTP1bagHAPE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\serdo\\Desktop\\Nueva carpeta\\integracionPlataforma_ASY5131_Csharp\\Hola\\Hola.csproj",
+  "projectFilePath": "C:\\Users\\serdo\\Desktop\\Nueva carpeta (3)\\int_plat_API\\Nueva carpeta\\integracionPlataforma_ASY5131_Csharp\\Hola\\Hola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\serdo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\serdo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
